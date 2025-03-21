@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="43" viewBox="0 0 157 43">
+  <style type="text/css">
+    <![CDATA[
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+    ]]>
+  </style>
+  <text id="logo-secondary" transform="translate(0 32)" fill="#fff" font-size="30" font-family="Nunito" font-weight="700">
+    <tspan x="0" y="0">QuikSplit</tspan>
+  </text>
+</svg>
